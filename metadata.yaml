@@ -1,0 +1,17 @@
+type: application
+name: Docker Node AWS Image
+id: docker-node-aws
+product: bizdev
+vertical: finanzcheck
+description: |
+  A docker base image which can be used to deploy serverless services to aws.
+owners:
+  - bd@finanzcheck.de
+platform: aws
+tags:
+  - bizdev
+  - serverless
+confidentiality: company-internal
+integrity: true
+authenticity: true
+availability: true
